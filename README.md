@@ -1,4 +1,4 @@
-# Sochat
+# Aura
 
 A new Flutter project.
 
