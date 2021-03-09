@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "46336084759",
+    "project_id": "sochat-da0bf",
+    "storage_bucket": "sochat-da0bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46336084759:android:280000cb72158968fa0552",
+        "android_client_info": {
+          "package_name": "com.tarun.Sochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46336084759-nr1im1pkijcjj2e7b3aidgmlmqv7qduo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU2MzdbFYVjTGVKLBYoeyOsZpXI17enXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46336084759-nr1im1pkijcjj2e7b3aidgmlmqv7qduo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
